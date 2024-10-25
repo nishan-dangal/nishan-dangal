@@ -13,7 +13,8 @@
 
 <br><h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/nishan-dangal-2aa87317a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nishan-dangal-2aa87317a/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/nishan-dangal-2aa87317a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nishan-dangal-2aa87317a/" height="30" width="40" /></a>
+<a href="https://x.com/nishandangal8" target="blank"><img align="center" width="40" height="40" src="https://img.icons8.com/ios-filled/50/twitterx--v1.png" alt="https://x.com/nishandangal8"/></a>
 <a href="https://instagram.com/nishan.dangal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nishan.dangal" height="30" width="40" /></a>
 </p>
 <br><h3 align="left">Languages and Tools:</h3>
