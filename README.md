@@ -1,5 +1,5 @@
 <h1 align="center">Hello👋🏼, I'm Nishan Dangal💁🏻‍♂️</h1>
-<h3 align="center">A Software Developer who has completed undergraduate study from Southern Cross University👨‍🎓 in Perth, Australia.</h3><br>
+<h3 align="center">A Junior Software Developer who has completed undergraduate study from Southern Cross University👨‍🎓 in Perth, Australia.</h3><br>
 
 - 🔭📚 I’m currently working on [Exercise tracker and URL shortner api microproject](https://github.com/Nis3D/UrlShortner-Microservice)
 
